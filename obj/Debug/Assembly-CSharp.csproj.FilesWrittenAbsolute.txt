@@ -1,0 +1,17 @@
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/obj/Debug/Assembly-CSharp.dll
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/UnityEngine.dll
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/UnityEditor.dll
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Peter/Documents/Elementools/Games/Tower-Defense/Temp/bin/Debug/Mono.Cecil.Mdb.dll
